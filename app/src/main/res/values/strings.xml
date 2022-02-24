@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Bienvenidos</string>
+    <string name="userName">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="olvidoPass">¿Olvidaste tu Contraseña?</string>
+    <string name="next">Ingresar</string>
+    <string name="not_account">¿No tienes cuenta? Registrate</string>
+</resources>
